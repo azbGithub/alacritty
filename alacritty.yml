@@ -1,5 +1,5 @@
 ---
-import: [C:\Users\zhongboai\AppData\Roaming\alacritty\catppuccin.yaml]
+import: [C:\Users\zhongboai\AppData\Roaming\alacritty\tokyonight_moon.yml]
 live_config_reload: true
 tabspaces: 4
 env:
